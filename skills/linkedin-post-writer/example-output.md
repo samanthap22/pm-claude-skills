@@ -1,4 +1,4 @@
-# Example Output: PM Claude Code Setup Post
+# Linkedin: PM Claude Code Setup Post
 
 **Input given:** Write a LinkedIn post about setting up PM tools in Claude Code after being made redundant.
 
